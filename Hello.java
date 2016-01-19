@@ -1,7 +1,7 @@
 
 //For commend line git tutorial
 //Local repository modification
-//rrr
+//GitHub modification
 
 
 public class Hello{
@@ -11,5 +11,6 @@ public class Hello{
 		System.out.println("What is Git?");
 		System.out.println("What's DVCS?");
 		System.out.println("Distributed Version Control System");
+		System.out.println("That's version control");
 	}
 }
